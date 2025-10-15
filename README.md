@@ -67,5 +67,5 @@ REST API для учета личных финансов на FastAPI с пол�
 ## 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gudalex61)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksejgudis623@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aleksejgudis623@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksejgudis623@gmail.com)
 [![HH.ru](https://img.shields.io/badge/HH.ru-FF0000?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/dd7fb0fbff0f4602b90039ed1f437969754263)
