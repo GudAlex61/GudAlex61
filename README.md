@@ -20,11 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 Статистика GitHub
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GudAlex61&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GudAlex61&layout=compact&theme=radical)
 
 ## 🔥 Мои ключевые проекты
 
